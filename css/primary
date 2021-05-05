@@ -1,1 +1,17 @@
-Temp css
+body {
+  font-family: monospace;
+  background-color: lightgrey
+}
+
+h1{ 
+text-align: center
+}
+
+h3 { 
+text-align: center}
+
+h2 {
+  text-align: center;
+  border: 0.1em solid #000;
+  
+}
