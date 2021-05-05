@@ -1,6 +1,9 @@
 body {
   font-family: monospace;
-  background-color: lightgrey
+  background-color: lightgrey;
+  max-width: 48em;
+  padding: 0 5%;
+  margin: 0 auto;}  
 }
 
 h1 { 
