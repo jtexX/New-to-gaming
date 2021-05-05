@@ -8,7 +8,8 @@ text-align: center
 }
 
 h3 { 
-text-align: center}
+text-align: center
+}
 
 h2{
   text-align: center;
@@ -21,4 +22,8 @@ img {
  margin-left: auto;
  margin-right: auto;
  margin-bottom: 01;
+}
+
+p.intro{
+  text-align: center
 }
